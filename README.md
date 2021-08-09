@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Shimalshivkaprakash2021
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in kpop and anything related to crime cases
+- 🌱 I’m currently learning CS50 with edX and current law student in the University of Fiji
+- 📫 How to reach me? Viber me on +6798013110 or DM on Instagram @shimalshivka
 
-<!---
-Shimalshivkaprakash2021/Shimalshivkaprakash2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
